@@ -2,12 +2,6 @@
     <h1>Hi there 👋, I'm Maksim</h1>
     <h3>Backend developer from Krasnodar</h3>
 </div>
-<div id="socials" align="center">
-    <a href="https://t.me/inkosator">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-</div>
-
 
 ### Languages and tools
 
