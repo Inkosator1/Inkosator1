@@ -2,6 +2,12 @@
     <h1>Hi there 👋, I'm Maksim</h1>
     <h3>Backend developer from Krasnodar</h3>
 </div>
+<div id="socials" align="center">
+    <a href="telegram-url">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+
+</div>
 
 <!--
 **Inkosator1/Inkosator1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
