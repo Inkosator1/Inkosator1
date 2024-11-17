@@ -30,6 +30,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Inkosator1&theme=github&utcOffset=8" alt=""/>
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Inkosator1&icon=0&color=12)](https://visitcount.itsvg.in)
+
 <!--
 **Inkosator1/Inkosator1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
