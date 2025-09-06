@@ -41,7 +41,5 @@
 
 ### 👁 Visitors
 
-### 👁 Visitors
-
-[![](https://visitcount.itsvg.in/api?id=Inkosator1&icon=0&color=12)](https://visitcount.itsvg.in)
+[![Visitors](https://img.shields.io/badge/Visitors-👁%20See%20Repo-blue)](https://github.com/Inkosator1)
 
