@@ -24,10 +24,8 @@
 
 ### 🎯 HackerRank
 
-<div align="center">
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-kane__beek-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/kane_beek)  
 [![Solved](https://img.shields.io/badge/Solved-50%2B-blue)](https://www.hackerrank.com/profile/kane_beek)
-</div>
 
 ---
 
@@ -43,7 +41,7 @@
 
 ### 👁 Visitors
 
-<div align="center">
+### 👁 Visitors
+
 [![](https://visitcount.itsvg.in/api?id=Inkosator1&icon=0&color=12)](https://visitcount.itsvg.in)
-</div>
 
