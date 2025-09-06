@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 
 [![Profile](https://img.shields.io/badge/HackerRank-kane__beek-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/kane_beek)
-[![Solved](https://img.shields.io/badge/Solved-120%2B-blue)](https://www.hackerrank.com/profile/kane_beek)
+[![Solved](https://img.shields.io/badge/Solved-50%2B-blue)](https://www.hackerrank.com/profile/kane_beek)
 
 ### My stat
 
